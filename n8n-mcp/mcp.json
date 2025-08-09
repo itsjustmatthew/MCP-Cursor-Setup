@@ -7,8 +7,8 @@
           "MCP_MODE": "stdio",
           "LOG_LEVEL": "error",
           "DISABLE_CONSOLE_OUTPUT": "true",
-          "N8N_API_URL": "http://localhost:5678", //replace with your n8n api url
-          "N8N_API_KEY": "N8N_API_KEY" //replace with your n8n api key
+          "N8N_API_URL": "https://hog-full-bison.ngrok-free.app", //replace with your n8n api url
+          "N8N_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhMWZlNDExNS0zMmE4LTQ4NGQtYmFhZi03ZTBmODQ0MTAxMGQiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzU0NzU3MjczfQ.OA2ANfdunSS6i5GfBl38BBbacSTWx_tans1Uc18ptXI" //replace with your n8n api key
         }
       }
     }
